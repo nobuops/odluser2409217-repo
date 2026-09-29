@@ -2,6 +2,8 @@
 
 Sample car dealership web application used by the **Securing Cloud Development** lab.
 
+?
+
 It is an [Express](https://expressjs.com/) app that renders Mustache templates and serves a
 small car inventory from `data/inventory.json`. A `gulp` build packages the app into `dist/`,
 which is what the `Dockerfile` is built from in the CI/CD portion of the lab.
