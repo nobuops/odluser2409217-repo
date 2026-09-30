@@ -17,5 +17,8 @@
     "gulp-html-replace": "^1.6.2",
     "gulp-uglify": "^3.0.2",
     "mustache": "^4"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.1"
   }
 }
